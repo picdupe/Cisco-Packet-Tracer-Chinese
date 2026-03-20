@@ -2813,7 +2813,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>IP Configuration</source>
-        <translation>IP配置</translation>
+        <translation>IP 配置</translation>
     </message>
     <message>
         <source>DHCP</source>
@@ -10440,7 +10440,7 @@ Prompt</source>
     </message>
     <message>
         <source>IPConfiguration</source>
-        <translation>IP配置</translation>
+        <translation>IP 配置</translation>
     </message>
     <message>
         <source>Open the dial-up networking application.</source>
@@ -10581,7 +10581,7 @@ Prompt</source>
     <message>
         <source>IP
 Configuration</source>
-        <translation>IP配置</translation>
+        <translation>IP 配置</translation>
     </message>
     <message>
         <source>Dial-up</source>
@@ -14699,11 +14699,11 @@ p, li { white-space: pre-wrap; }
     <name>CBaseWorkStationIPConfig</name>
     <message>
         <source>IP Config</source>
-        <translation>IP配置</translation>
+        <translation>IP 配置</translation>
     </message>
     <message>
         <source>IP Configuration</source>
-        <translation>IP配置</translation>
+        <translation>IP 配置</translation>
     </message>
     <message>
         <source>close</source>
@@ -14957,11 +14957,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>IP Configuration</source>
-        <translation>IP配置</translation>
+        <translation>IP 配置</translation>
     </message>
     <message>
         <source>IP Address</source>
-        <translation>IP地址</translation>
+        <translation>IP 地址</translation>
     </message>
     <message>
         <source>Subnet Mask</source>
